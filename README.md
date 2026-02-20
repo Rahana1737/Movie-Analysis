@@ -18,20 +18,54 @@ Director impact on financial success
 
 IMDb rating distribution
 
+
 This project demonstrates practical skills in:
 
 Data Cleaning using Excel Power Query
+
 Data Transformation & Standardization
+
 Data Modeling in Power BI
+
 DAX Calculations
+
 Business-Oriented Data Visualization
+
 
 Data Preparation (Power Query)
 
 The dataset was cleaned and transformed using Power Query:
 
 Create a index column named Movie_id
+
 Removed duplicate records using Movie_id
+
 Handled missing values in budget, gross, and IMDb score
+
 Corrected data types (Year, Decimal, Whole Number)
+
+Add custom column named Profit
+
+Add conditional column named Profitability
+
+Rearrange the columns into correct order 
+
 This ensured accurate reporting and reliable insights.
+Data Modeling & DAX Measures
+
+Created calculated measures including:
+
+DAX:
+
+Total Movies = COUNT(Movie[Movie_id])
+
+Total Gross = SUM(Movie[gross])
+
+Total Budget = SUM(Movie[budget])
+
+Total Profit = SUM(Movie[Profit])
+
+Avg IMDb Score = AVERAGE(Movie[imdb_score])
+
+Avg cast likes = AVERAGE(Movie[cast_likes])
+
