@@ -107,7 +107,8 @@ Data Modeling Techniques
 
 ## 📸 Dashboard Preview
 
-()
+![Movie Industry Performance & Profitability Analysis](dashboard.png)  
+![Movie Industry Performance & Profitability Analysis](dashboard2.png)
 
 ## 📁 Repository Structure
 
