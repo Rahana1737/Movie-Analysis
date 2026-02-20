@@ -71,3 +71,92 @@ Avg IMDb Score = AVERAGE(Movie[imdb_score])
 
 Avg cast likes = AVERAGE(Movie[cast_likes])
 
+Dashboard Features
+🔹 KPI Section
+
+Total Movies
+
+Total Gross Revenue
+
+Total Budget
+
+Total Profit
+
+Profit Margin %
+
+Average IMDb Score
+
+🔹 Trend Analysis
+
+Gross Revenue Trend by Year (Line Chart)
+
+Profit Trend by Year
+
+🔹 Performance Analysis
+
+Total Profit by Genre
+
+Budget vs Profit Relationship (Scatter Plot)
+
+Movies by Country
+
+IMDb Score Distribution
+
+🔹 Leadership Insights
+
+Top 10 Directors by Profit
+
+🔹 Interactive Slicers
+
+Year
+
+Genre
+
+Country
+
+Content Rating
+
+Color
+
+💡 Key Insights
+
+Certain genres consistently outperform others in profitability.
+
+Budget does not always correlate with higher profit.
+
+Industry revenue shows cyclical growth trends over time.
+
+Director selection plays a significant role in financial performance.
+
+🛠 Tools & Technologies
+
+Microsoft Power BI
+
+Power Query
+
+DAX (Data Analysis Expressions)
+
+Data Modeling Techniques
+
+📸 Dashboard Preview
+
+(Insert dashboard screenshot here)
+
+📁 Repository Structure
+
+📊 Movie_Analytics_Dashboard.pbix
+
+📄 Dataset (if shareable)
+
+📸 Dashboard Screenshot
+
+📘 README.md
+
+👩‍💻 About Me
+
+Rahana Mohzin
+Aspiring Data Analyst
+Skilled in Power BI | SQL | Excel | Python
+Currently building real-world analytics projects.
+
+📌 Open to entry-level Data Analyst opportunities.
