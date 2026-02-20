@@ -113,7 +113,7 @@ Data Modeling Techniques
 
 - 📊 [Movie_Analytics_Dashboard.pbix](Movie_Analytics_Dashboard.pbix)
 - 📄 [Dataset](movie_metadata.csv.xlsx)
-- 📸 [Dashboard Screenshot](dashboard.png)
+- 📸 [Dashboard Screenshot](dashboard.png,dashboard2.png)
 - 📘 [README..md](README.md)  
 ## 👩‍💻 About Me
 
