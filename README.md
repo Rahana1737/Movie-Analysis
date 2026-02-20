@@ -51,6 +51,8 @@ Add conditional column named Profitability
 Rearrange the columns into correct order 
 
 This ensured accurate reporting and reliable insights.
+
+
 Data Modeling & DAX Measures
 
 Created calculated measures including:
