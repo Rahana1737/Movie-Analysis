@@ -89,7 +89,6 @@ ROI = DIVIDE([Total Profit],[Total Budget],0)
 - Genre  
 - Country  
 - Content Rating  
-- Color  
 
 ## 💡 Key Insights
 
@@ -115,7 +114,7 @@ Data Modeling Techniques
 - 📊 [Movie_Analytics_Dashboard.pbix](Movie_Analytics_Dashboard.pbix)
 - 📄 [Dataset](movie_metadata.csv.xlsx)
 - 📸 [Dashboard Screenshot](dashboard.png)
-- 📘 README.md
+- 📘 [README..md](README.md)  
 ## 👩‍💻 About Me
 
 Rahana Mohzin  
