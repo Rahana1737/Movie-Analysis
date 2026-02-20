@@ -113,7 +113,7 @@ Data Modeling Techniques
 ## 📁 Repository Structure
 
 - 📊 [Movie_Analytics_Dashboard.pbix](Movie_Analytics_Dashboard.pbix)
-- 📄 [Dataset](movie_metadata.csv)
+- 📄 [Dataset](movie_metadata.csv.xlsx)
 - 📸 [Dashboard Screenshot](dashboard.png)
 - 📘 README.md
 ## 👩‍💻 About Me
