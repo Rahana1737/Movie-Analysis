@@ -119,7 +119,5 @@ Data Modeling Techniques
 
 Rahana Mohzin  
 Aspiring Data Analyst  
-Skilled in Power BI | SQL | Excel | Python  
-Currently building real-world analytics projects.  
-
-📌 Open to entry-level Data Analyst opportunities.
+Skilled in Power BI | SQL | Excel   
+Currently building real-world analytics project. 
