@@ -112,14 +112,10 @@ Data Modeling Techniques
 
 ## 📁 Repository Structure
 
-📊 Movie_Analytics_Dashboard.pbix
-
-📄 Dataset (if shareable)
-
-📸 Dashboard Screenshot
-
-📘 README.md
-
+- 📊 [Movie_Analytics_Dashboard.pbix](Movie_Analytics_Dashboard.pbix)
+- 📄 [Dataset](movie_metadata.csv)
+- 📸 [Dashboard Screenshot](dashboard.png)
+- 📘 README.md
 ## 👩‍💻 About Me
 
 Rahana Mohzin  
